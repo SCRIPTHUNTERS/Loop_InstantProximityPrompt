@@ -1,3 +1,6 @@
+print("Loop Instant Proximity Prompts - loaded successfully!")
+print("Made by RoKanchik_YT")
+
 while true do
 wait(0)
 for i,v in ipairs(game:GetService("Workspace"):GetDescendants()) do
