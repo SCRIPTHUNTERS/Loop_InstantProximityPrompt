@@ -1,5 +1,5 @@
 print("Loop Instant Proximity Prompts - loaded successfully!")
-print("Made by RoKanchik_YT")
+print("Made by RoKanchik_YT & buildermack")
 
 while true do
 wait(0)
